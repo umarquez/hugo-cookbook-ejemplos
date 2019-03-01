@@ -1,0 +1,4 @@
+baseURL = "http://hola-mundo.com/"
+languageCode = "es-mx"
+title = "Hola Mundo con HUGO"
+theme = "hello-friend"
