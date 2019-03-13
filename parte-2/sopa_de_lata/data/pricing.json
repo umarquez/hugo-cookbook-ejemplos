@@ -1,0 +1,47 @@
+{
+  "title" : "Presentacionesy precios",
+  "description" : "Tenemos una opción al tamaño de tu hambre.",
+  "content" : [
+    {
+      "title" : "Individual",
+      "price" : "$29.95",
+      "features" : [
+        "Presentación individual",
+        "5 Sabores a elegir",
+        "Solo agrega agua"
+      ],
+      "button" : {
+        "text" : "Ordenar",
+        "href" : "http://www.amazon.com"
+      }
+    },
+    {
+      "title" : "Familiar",
+      "price" : "$49.95",
+      "features" : [
+        "Presentación hasta para 4 personas",
+        "Incluye salsa y cubiertos",
+        "Lista para comer, preparada al momento",
+        "Incluye tortillas"
+      ],
+      "button" : {
+        "text" : "Ordenar",
+        "href" : "http://www.amazon.com"
+      }
+    },
+    {
+      "title" : "Eventos",
+      "price" : "$199.90",
+      "features" : [
+        "Presentación hasta para 10 personas",
+        "Incluye salsa y cubiertos",
+        "Lista para comer, preparada al momento",
+        "Incluye tortillas y pan"
+      ],
+      "button" : {
+        "text" : "Ordenar",
+        "href" : "http://www.amazon.com"
+      }
+    }
+  ]
+}

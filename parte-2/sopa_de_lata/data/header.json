@@ -1,0 +1,26 @@
+{
+  "brand" : "Sodium Theme",
+  "logo" : "logo-black.svg",
+  "links" : [
+    {
+      "title" : "Inicio",
+      "href" : ""
+    },
+    {
+      "title" : "Nuestro sabor",
+      "href" : "#features"
+    },
+    {
+      "title" : "Presentaciones",
+      "href" : "#pricing"
+    },
+    {
+      "title" : "Contacto",
+      "href" : "#contact"
+    },
+    {
+      "title" : "C0D3.mx",
+      "href" : "http://www.c0d3.mx/"
+    }
+  ]
+}

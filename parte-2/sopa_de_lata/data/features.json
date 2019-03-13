@@ -1,0 +1,21 @@
+{
+  "title" : "Nuestro sabor.",
+  "description" : "El secreto de nuestro sabor se basa en tres principales características.",
+  "content" : [
+    {
+      "icon" : "truck",
+      "title" : "Nuestros ingredientes",
+      "description" : "Compramos productos 100% naturales de granjas orgánicas autosustentables que cuentan con certificaciones internacionales."
+    },
+    {
+      "icon" : "industry",
+      "title" : "Nuestra infraestructura",
+      "description" : "Contamos con una línea de producción diseñada por a la medida que nos permite una automatización casi del 100%, evitando el contacto humano desde el punto de entrega hasta el envasado final."
+    },
+    {
+      "icon" : "server",
+      "title" : "Nuestras recetas",
+      "description" : "Herencia de nuestro fundador, el recetario que dio origen a nuestra empresa, ahora es parte de un complejo sistema digital que adapta las proporciones de cada ingrediente."
+    }
+  ]  
+}

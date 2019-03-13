@@ -1,0 +1,18 @@
+baseURL : //hugo.umarquez.com/
+languageCode : es-mx
+title : Sopa de lata
+theme : hugo-sodium-theme
+
+taxonomies:
+  category: categories
+  tag: tags
+
+params:
+  social:
+    facebook: C0D3MX
+    instagram: C0D3MX
+    twitter: C0D3MX
+
+  scripts:
+    googleanalytics: 
+    disqus: 

@@ -1,0 +1,21 @@
+{
+  "title" : "Nuestro equipo",
+  "description" : "Cada uno de ellos es especialista en su área, son encargados de dirigir cada etapa del negocio.",
+  "members" : [
+    {
+      "name" : "Chef Ramiro Procciutto",
+      "description" : "Head Chef",
+      "avatar" : "ramiro.jpg"
+    },
+    {
+      "name" : "Dr. John Langdon",
+      "description" : "Head Food Chemistry",
+      "avatar" : "john.jpg"
+    },
+    {
+      "name" : "Ing. Don Leonard Jr.",
+      "description" : "CTO",
+      "avatar" : "don.jpg"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg width="411" height="120" version="1.1" viewBox="0 0 411 120" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(6,2)">
+  <g transform="translate(49.518 -9.9036)" fill="#fff" stroke="#000" stroke-miterlimit="1.414">
+   <rect x="16.324" y="28.494" width="61.454" height="70" ry="0" stroke-width="8"/>
+   <ellipse cx="46.592" cy="28.327" rx="30.948" ry="7.8122" stroke-width="6.6712"/>
+  </g>
+  <text transform="scale(1.0462 .95587)" x="56.938839" y="95.759384" fill="#000000" font-family="sans-serif" font-size="98.121px" letter-spacing="0px" stroke-width="1.0221" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="56.938839" y="95.759384" font-family="Arial" font-weight="900" stroke-width="1.0221">Sopa</tspan></text>
+ </g>
+</svg>

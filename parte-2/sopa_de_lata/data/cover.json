@@ -1,0 +1,9 @@
+{
+  "title" : "Sopa de lata Don Latón",
+  "description" : "La sopa que te da energía para el día a a día, con más de 80 proteinas y minerales",
+  "image" : "misc.jpg",
+  "button" : {
+    "text" : "¡Hablemos de sopa!",
+    "href" : "/#contact"
+  }
+}
